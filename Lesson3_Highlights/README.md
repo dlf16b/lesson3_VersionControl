@@ -13,6 +13,9 @@ Diego Faverio
 ## Project Description:
 The assignment was to create a GitHub account and move files to local and remote repositories. We also had to edit the index.html file to highlight 4 topics from lesson 3.
 
+## View Project:
+https://dlf16b.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. Version Control Systems - Systems that allow a group of people to work on files without overwriting them.
 2. Local and Remote Repsoitories - storage that reside on remote serveres vs local machines in order to save and edit files.
